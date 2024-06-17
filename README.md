@@ -21,4 +21,4 @@ This project is a basic website created as part of a front-end development assig
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/basic-website.git
+   git clone https://github.com/setta007/Create-the-basic-HTML-structure-of-your-website
